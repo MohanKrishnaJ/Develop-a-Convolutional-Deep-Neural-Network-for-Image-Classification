@@ -207,7 +207,7 @@ predict_image(model, image_index=190, dataset=test_dataset)
 ![image alt](https://github.com/MohanKrishnaJ/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/8acf18143139aded393ecf108a3105fe618dedf9/Screenshot%202026-03-16%20011919.png)
 
 ## Confusion Matrix
-![image alt](https://github.com/SajenMurali/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/07d84cd1d5b6b1bcda1d9d5d4b9948b2eacaeb7a/Screenshot%202026-03-15%20204741.png)
+![image alt](https://github.com/MohanKrishnaJ/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/0c431c459093690341df3f038307fa2267ee23bb/Screenshot%202026-03-16%20012247.png)
 
 ## Classification Report
 

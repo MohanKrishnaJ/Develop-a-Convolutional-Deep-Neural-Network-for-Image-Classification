@@ -211,7 +211,7 @@ predict_image(model, image_index=190, dataset=test_dataset)
 
 ## Classification Report
 
-![image alt](https://github.com/SajenMurali/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/07d84cd1d5b6b1bcda1d9d5d4b9948b2eacaeb7a/Screenshot%202026-03-15%20204735.png)
+![image alt](https://github.com/MohanKrishnaJ/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/a0fd549670aa27b1e4e71ed0995f5e1bf8f2e00e/Screenshot%202026-03-16%20012407.png)
 ### New Sample Data Prediction
 
 ![image alt](https://github.com/SajenMurali/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/07d84cd1d5b6b1bcda1d9d5d4b9948b2eacaeb7a/Screenshot%202026-03-15%20204718.png)
